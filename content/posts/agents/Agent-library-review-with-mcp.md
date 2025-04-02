@@ -23,32 +23,32 @@ Agent libraries often lack usability. While implementing directly with LLM Provi
 
 # LangGraph
 
-The potential of its graph state and edge definition is genuinely high.
-Using LangSmith again was a truly positive experience; it remains excellent.
-However, its LangChain foundation resulted in a very poor usability experience, making me unlikely to use it again.
-Specific issues arose when using LangChain with Gemini via an OpenAI-compatible proxy, particularly around controlling structured output and function calling parameters. This consumed excessive time, recalling past frustrations requiring library code changes.
-LangSmith itself, revisited since '23, is still unparalleled for agent-oriented observability among the available tools.
+- The potential of its graph state and edge definition is genuinely high.
+- Using LangSmith again was a truly positive experience; it remains excellent.
+- However, its LangChain foundation resulted in a very poor usability experience, making me unlikely to use it again.
+- Specific issues arose when using LangChain with Gemini via an OpenAI-compatible proxy, particularly around controlling structured output and function calling parameters. This consumed excessive time, recalling past frustrations requiring library code changes.
+- LangSmith itself, revisited since '23, is still unparalleled for agent-oriented observability among the available tools.
 
 # MCP
 
-Working with MCP was unique due to its goal of setting a broad standard, but the ecosystem feels underdeveloped relative to the protocol's significance.
-Insufficient mcp-python-sdk documentation necessitated code analysis for understanding details (like low-level server use with Starlette), which is undesirable when caused by documentation gaps.
-(I should acknowledge I haven't contributed documentation back myself.)
-Encountered Unicode encoding issues with large GRPC/SSE responses (solved by using dictionaries instead of Pydantic models), suggesting many might be using stdio, which is disappointing for wider adoption.
+- Working with MCP was unique due to its goal of setting a broad standard, but the ecosystem feels underdeveloped relative to the protocol's significance.
+- Insufficient mcp-python-sdk documentation necessitated code analysis for understanding details (like low-level server use with Starlette), which is undesirable when caused by documentation gaps.
+- (I should acknowledge I haven't contributed documentation back myself.)
+- Encountered Unicode encoding issues with large GRPC/SSE responses (solved by using dictionaries instead of Pydantic models), suggesting many might be using stdio, which is disappointing for wider adoption.
 
 # OpenAI Agents SDK
 
-It delivered the expected Pydantic-based simplicity and potential for easy handoff/guardrail integration, but little else.
-The lack of other useful features resulted in significant constraints.
-It misses capabilities for complex agent state management.
-Other limitations include slow OpenAI traces, no tagging, dependency on OpenAI infrastructure, and issues using LLM proxies (due to not following the standard chat completion spec), effectively tying users to OpenAI LLMs.
+- It delivered the expected Pydantic-based simplicity and potential for easy handoff/guardrail integration, but little else.
+- The lack of other useful features resulted in significant constraints.
+- It misses capabilities for complex agent state management.
+- Other limitations include slow OpenAI traces, no tagging, dependency on OpenAI infrastructure, and issues using LLM proxies (due to not following the standard chat completion spec), effectively tying users to OpenAI LLMs.
 
 # Google Gemini & Gen AI SDK
 
-The Gemini model itself performs excellently (1M context, cost, performance).
-However, the genai SDK and documentation lack clarity, especially compared to the high standard set by OpenAI's SDK.
-For instance, parallel tool calling exists but lacks clear configuration guidance, and function calling documentation was sparse, forcing reliance on prompt adjustments. OpenAI offers clearer control here.
-The overall SDK experience (GenAI and Vertex AI) felt subpar ("quite poor"). Using an OpenAI-compatible interface via an LLM Proxy often seemed more convenient.
+- The Gemini model itself performs excellently (1M context, cost, performance).
+- However, the genai SDK and documentation lack clarity, especially compared to the high standard set by OpenAI's SDK.
+- For instance, parallel tool calling exists but lacks clear configuration guidance, and function calling documentation was sparse, forcing reliance on prompt adjustments. OpenAI offers clearer control here.
+- The overall SDK experience (GenAI and Vertex AI) felt subpar ("quite poor"). Using an OpenAI-compatible interface via an LLM Proxy often seemed more convenient.
 Final Thought:
 
 # Conclusion 
