@@ -1,6 +1,5 @@
 ---
 title: "NLP trends"
-description: "ROGUE score를 올리는 행위를 reward로 설정해서 RL을 수행하는 NLP.mixed objective and deep residual coattention for question answering.기존의 QA model이 Answer를 잘못 추출하는 경우가 "
 date: 2021-10-29T09:55:54.188Z
 tags: ["NLP"]
 ---
