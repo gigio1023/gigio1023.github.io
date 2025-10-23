@@ -1,0 +1,1635 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog of gigio1023</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Blog of gigio1023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>relilau00@gmail.com (Sungho Park (gigio1023))</managingEditor>
+    <webMaster>relilau00@gmail.com (Sungho Park (gigio1023))</webMaster>
+    <copyright>© 2025 Sungho Park (gigio1023)</copyright>
+    <lastBuildDate>Wed, 02 Apr 2025 02:19:12 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Agent library review with MCP</title>
+      <link>http://localhost:1313/posts/agents/agent-library-review-with-mcp/</link>
+      <pubDate>Wed, 02 Apr 2025 02:19:12 +0900</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/agents/agent-library-review-with-mcp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OpenAI Agents SDK review</title>
+      <link>http://localhost:1313/posts/agents/openai-agents-sdk-review/</link>
+      <pubDate>Thu, 13 Mar 2025 02:19:12 +0900</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/agents/openai-agents-sdk-review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>m1 gpu acceleration</title>
+      <link>http://localhost:1313/posts/mac/2022-05-20-m1-gpu-acceleration/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/mac/2022-05-20-m1-gpu-acceleration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mac basic settings</title>
+      <link>http://localhost:1313/posts/mac/2022-05-19-mac-settings/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/mac/2022-05-19-mac-settings/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Retrieval-Augmented Diffusion model</title>
+      <link>http://localhost:1313/posts/ml/2022-05-18-retrieval-augmented-diffusion-model/</link>
+      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2022-05-18-retrieval-augmented-diffusion-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Med-BERT</title>
+      <link>http://localhost:1313/posts/ml/2022-05-17-med-bert/</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2022-05-17-med-bert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Condenser, coCondenser</title>
+      <link>http://localhost:1313/posts/ml/2022-05-16-condenser-cocondenser/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2022-05-16-condenser-cocondenser/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Grad Cache</title>
+      <link>http://localhost:1313/posts/ml/2022-04-12-grad-cache/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2022-04-12-grad-cache/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NVTabular</title>
+      <link>http://localhost:1313/posts/ml/2022-04-12-nv-tabular/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2022-04-12-nv-tabular/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Airflow and Kubernetes</title>
+      <link>http://localhost:1313/posts/infra/2022-04-08-airflow-and-kubernetes/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/infra/2022-04-08-airflow-and-kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MLOps Summary</title>
+      <link>http://localhost:1313/posts/infra/2022-04-08-mlops-summary/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/infra/2022-04-08-mlops-summary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Split VRAM of GPU on Kubernetes</title>
+      <link>http://localhost:1313/posts/ml/2022-04-08-split-vram-of-gpu-on-kubernetes/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2022-04-08-split-vram-of-gpu-on-kubernetes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>github.io basic</title>
+      <link>http://localhost:1313/posts/old_postings/2022-04-06-github.io-basic-setting/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2022-04-06-github.io-basic-setting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jekyll Page</title>
+      <link>http://localhost:1313/posts/old_postings/2022-04-06-jekyll_page/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2022-04-06-jekyll_page/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Open Graph Protocol</title>
+      <link>http://localhost:1313/posts/infra/2022-04-06-open-graph-protocol/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/infra/2022-04-06-open-graph-protocol/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Search Engine Registration</title>
+      <link>http://localhost:1313/posts/infra/2022-04-06-search-engine-registration/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/infra/2022-04-06-search-engine-registration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 튜플</title>
+      <link>http://localhost:1313/posts/algorithms/2022-02-24-programmers-tuple/</link>
+      <pubDate>Thu, 24 Feb 2022 10:54:54 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2022-02-24-programmers-tuple/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 로또의 최고 순위와 최저 순위</title>
+      <link>http://localhost:1313/posts/algorithms/2022-01-31-programmers-lotto-max-min-rank/</link>
+      <pubDate>Mon, 31 Jan 2022 08:04:48 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2022-01-31-programmers-lotto-max-min-rank/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 신고 결과 받기</title>
+      <link>http://localhost:1313/posts/algorithms/2022-01-30-programmers-get-report-results/</link>
+      <pubDate>Sun, 30 Jan 2022 17:51:20 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2022-01-30-programmers-get-report-results/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 프린터</title>
+      <link>http://localhost:1313/posts/algorithms/2022-01-20-programmers-printer/</link>
+      <pubDate>Thu, 20 Jan 2022 09:56:01 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2022-01-20-programmers-printer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AutoML</title>
+      <link>http://localhost:1313/posts/ml/2021-11-28-automl/</link>
+      <pubDate>Sun, 28 Nov 2021 14:04:07 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-11-28-automl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>경량화 대회</title>
+      <link>http://localhost:1313/posts/ml/2021-11-28-model-compression-competition/</link>
+      <pubDate>Sun, 28 Nov 2021 13:26:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-11-28-model-compression-competition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>경량화 overview</title>
+      <link>http://localhost:1313/posts/ml/2021-11-28-model-compression-overview/</link>
+      <pubDate>Sun, 28 Nov 2021 13:07:01 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-11-28-model-compression-overview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[HakerRank] Roads and Libraries</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-19-hackerrank-roads-and-libraries/</link>
+      <pubDate>Fri, 19 Nov 2021 12:04:28 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-19-hackerrank-roads-and-libraries/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[HackerRank] Sherlock and Cost</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-19-hackerrank-sherlock-and-cost/</link>
+      <pubDate>Fri, 19 Nov 2021 09:34:40 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-19-hackerrank-sherlock-and-cost/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[HackerRank] Climbing the Leaderboard</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-18-hackerrank-climbing-the-leaderboard/</link>
+      <pubDate>Thu, 18 Nov 2021 08:48:12 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-18-hackerrank-climbing-the-leaderboard/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 문자열 압축</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-17-programmers-string-compression/</link>
+      <pubDate>Wed, 17 Nov 2021 17:09:49 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-17-programmers-string-compression/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 가장 먼 노드</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-12-programmers-farthest-node/</link>
+      <pubDate>Fri, 12 Nov 2021 08:07:04 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-12-programmers-farthest-node/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[백준] Z</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-11-baekjoon-z/</link>
+      <pubDate>Thu, 11 Nov 2021 03:15:39 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-11-baekjoon-z/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kaggle dataset</title>
+      <link>http://localhost:1313/posts/old_postings/2021-11-10-kaggle-dataset/</link>
+      <pubDate>Wed, 10 Nov 2021 15:31:55 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-11-10-kaggle-dataset/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[백준] 소풍</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-10-baekjoon-picnic/</link>
+      <pubDate>Wed, 10 Nov 2021 11:35:47 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-10-baekjoon-picnic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[백준] 암호 만들기</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-08-baekjoon-password-creation/</link>
+      <pubDate>Mon, 08 Nov 2021 08:12:58 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-08-baekjoon-password-creation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 파일명 정렬</title>
+      <link>http://localhost:1313/posts/algorithms/2021-11-02-programmers-filename-sort/</link>
+      <pubDate>Tue, 02 Nov 2021 02:51:54 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-11-02-programmers-filename-sort/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 영어 끝말잇기</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-29-programmers-english-word-chain/</link>
+      <pubDate>Fri, 29 Oct 2021 22:50:29 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-29-programmers-english-word-chain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NLP trends</title>
+      <link>http://localhost:1313/posts/old_postings/2021-10-29-nlp-trends/</link>
+      <pubDate>Fri, 29 Oct 2021 09:55:54 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-10-29-nlp-trends/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>grep process 한꺼번에 종료</title>
+      <link>http://localhost:1313/posts/old_postings/2021-10-29-grep-process-and-kill/</link>
+      <pubDate>Fri, 29 Oct 2021 08:57:49 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-10-29-grep-process-and-kill/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>python3 container</title>
+      <link>http://localhost:1313/posts/old_postings/2021-10-27-python3-container/</link>
+      <pubDate>Wed, 27 Oct 2021 00:53:46 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-10-27-python3-container/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[백준] 톱니바퀴</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-26-baekjoon-gear/</link>
+      <pubDate>Tue, 26 Oct 2021 20:12:15 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-26-baekjoon-gear/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 징검다리</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-22-programmers-stepping-stones/</link>
+      <pubDate>Fri, 22 Oct 2021 17:34:24 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-22-programmers-stepping-stones/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 11주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-10-22-naver-boost-camp-ai-tech-2nd-report-eleventh-week/</link>
+      <pubDate>Fri, 22 Oct 2021 11:27:28 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-10-22-naver-boost-camp-ai-tech-2nd-report-eleventh-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 구명보트</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-22-programmers-lifeboat/</link>
+      <pubDate>Fri, 22 Oct 2021 03:45:53 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-22-programmers-lifeboat/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] H-index</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-22-programmers-h-index/</link>
+      <pubDate>Fri, 22 Oct 2021 02:44:44 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-22-programmers-h-index/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 위장</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-21-programmers-disguise/</link>
+      <pubDate>Thu, 21 Oct 2021 17:35:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-21-programmers-disguise/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 전화번호부</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-21-programmers-phone-book/</link>
+      <pubDate>Thu, 21 Oct 2021 14:57:35 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-21-programmers-phone-book/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>QA with Phrase Retrieval</title>
+      <link>http://localhost:1313/posts/old_postings/2021-10-20-qa-with-phrase-retrieval/</link>
+      <pubDate>Wed, 20 Oct 2021 06:13:25 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-10-20-qa-with-phrase-retrieval/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 입국심사</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-20-programmers-immigration/</link>
+      <pubDate>Wed, 20 Oct 2021 02:11:09 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-20-programmers-immigration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Negative in-batch</title>
+      <link>http://localhost:1313/posts/ml/2021-10-18-negative-in-batch/</link>
+      <pubDate>Mon, 18 Oct 2021 17:53:53 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-18-negative-in-batch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reducing Training Bias</title>
+      <link>http://localhost:1313/posts/ml/2021-10-18-reducing-training-bias/</link>
+      <pubDate>Mon, 18 Oct 2021 03:44:02 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-18-reducing-training-bias/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linking MRC and Retrieval</title>
+      <link>http://localhost:1313/posts/ml/2021-10-17-linking-mrc-and-retrieval/</link>
+      <pubDate>Sun, 17 Oct 2021 08:45:26 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-17-linking-mrc-and-retrieval/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Passage Retrieval - Scaling up</title>
+      <link>http://localhost:1313/posts/ml/2021-10-17-passage-retrieval---scaling-up/</link>
+      <pubDate>Sun, 17 Oct 2021 08:32:29 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-17-passage-retrieval---scaling-up/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dense Embedding</title>
+      <link>http://localhost:1313/posts/ml/2021-10-14-dense-embedding/</link>
+      <pubDate>Thu, 14 Oct 2021 06:43:17 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-14-dense-embedding/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Passage Retrieval</title>
+      <link>http://localhost:1313/posts/ml/2021-10-13-passage-retrieval/</link>
+      <pubDate>Wed, 13 Oct 2021 15:00:36 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-13-passage-retrieval/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[백준] 2048 (Easy)</title>
+      <link>http://localhost:1313/posts/algorithms/2021-10-13-baekjoon-2048-easy/</link>
+      <pubDate>Wed, 13 Oct 2021 14:59:23 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-10-13-baekjoon-2048-easy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Generation-based MRC</title>
+      <link>http://localhost:1313/posts/ml/2021-10-13-generation-based-mrc/</link>
+      <pubDate>Wed, 13 Oct 2021 04:58:10 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-13-generation-based-mrc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Extraction-Based MRC</title>
+      <link>http://localhost:1313/posts/ml/2021-10-13-extraction-based-mrc/</link>
+      <pubDate>Wed, 13 Oct 2021 04:09:10 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-13-extraction-based-mrc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>최신 모델</title>
+      <link>http://localhost:1313/posts/ml/2021-10-13-latest-models/</link>
+      <pubDate>Wed, 13 Oct 2021 01:49:14 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-13-latest-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GPT 언어 모델</title>
+      <link>http://localhost:1313/posts/ml/2021-10-12-gpt-language-model/</link>
+      <pubDate>Tue, 12 Oct 2021 05:01:34 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-12-gpt-language-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unicode, Tokenization</title>
+      <link>http://localhost:1313/posts/ml/2021-10-12-unicode-tokenization/</link>
+      <pubDate>Tue, 12 Oct 2021 02:26:14 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-12-unicode-tokenization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MRC</title>
+      <link>http://localhost:1313/posts/ml/2021-10-12-mrc/</link>
+      <pubDate>Tue, 12 Oct 2021 01:31:41 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-12-mrc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 10주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-10-08-naver-boost-camp-ai-tech-2nd-report-tenth-week/</link>
+      <pubDate>Fri, 08 Oct 2021 08:42:13 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-10-08-naver-boost-camp-ai-tech-2nd-report-tenth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>nvidia-driver</title>
+      <link>http://localhost:1313/posts/old_postings/2021-10-06-nvidia-driver/</link>
+      <pubDate>Wed, 06 Oct 2021 21:59:12 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-10-06-nvidia-driver/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux server sleep</title>
+      <link>http://localhost:1313/posts/old_postings/2021-10-03-linux-server-sleep/</link>
+      <pubDate>Sun, 03 Oct 2021 21:06:55 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-10-03-linux-server-sleep/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 9주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-10-01-naver-boost-camp-ai-tech-2nd-report-ninth-week/</link>
+      <pubDate>Fri, 01 Oct 2021 08:50:31 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-10-01-naver-boost-camp-ai-tech-2nd-report-ninth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>문장 토큰 분류</title>
+      <link>http://localhost:1313/posts/ml/2021-09-28-sentence-token-classification/</link>
+      <pubDate>Tue, 28 Sep 2021 12:22:48 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-28-sentence-token-classification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KLUE 의존 구문 분석, 단일문장 분류</title>
+      <link>http://localhost:1313/posts/ml/2021-09-28-klue-dependency-parsing-single-sentence-classification/</link>
+      <pubDate>Tue, 28 Sep 2021 08:46:25 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-28-klue-dependency-parsing-single-sentence-classification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>BERT 두 문장 관계 분류 task</title>
+      <link>http://localhost:1313/posts/ml/2021-09-28-bert-sentence-pair-classification/</link>
+      <pubDate>Tue, 28 Sep 2021 08:35:45 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-28-bert-sentence-pair-classification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Training BERT</title>
+      <link>http://localhost:1313/posts/ml/2021-09-28-training-bert/</link>
+      <pubDate>Tue, 28 Sep 2021 02:22:24 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-28-training-bert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>BERT 응용</title>
+      <link>http://localhost:1313/posts/ml/2021-09-27-bert-applications/</link>
+      <pubDate>Mon, 27 Sep 2021 16:09:51 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-27-bert-applications/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Regex 연습</title>
+      <link>http://localhost:1313/posts/ml/2021-09-27-regex-practice/</link>
+      <pubDate>Mon, 27 Sep 2021 12:44:21 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-27-regex-practice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Language model Benchmark 간단 정리</title>
+      <link>http://localhost:1313/posts/ml/2021-09-26-language-model-benchmark-summary/</link>
+      <pubDate>Sun, 26 Sep 2021 22:12:41 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-26-language-model-benchmark-summary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI &amp; Ethics</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-26-ai-and-ethics/</link>
+      <pubDate>Sun, 26 Sep 2021 10:10:36 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-26-ai-and-ethics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Full stack ML Engineer</title>
+      <link>http://localhost:1313/posts/ml/2021-09-26-full-stack-ml-engineer/</link>
+      <pubDate>Sun, 26 Sep 2021 09:41:46 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-26-full-stack-ml-engineer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI 저작권법</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-26-ai-copyright-law/</link>
+      <pubDate>Sun, 26 Sep 2021 08:46:19 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-26-ai-copyright-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 8주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-09-24-naver-boost-camp-ai-tech-2nd-report-eighth-week/</link>
+      <pubDate>Fri, 24 Sep 2021 09:24:46 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-09-24-naver-boost-camp-ai-tech-2nd-report-eighth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quant trading / Researcher</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-23-quant-trading--researcher/</link>
+      <pubDate>Thu, 23 Sep 2021 09:51:47 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-23-quant-trading--researcher/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kaggle tip</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-23-kaggle-tip/</link>
+      <pubDate>Thu, 23 Sep 2021 06:35:03 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-23-kaggle-tip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI model as Service</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-23-ai-model-as-service/</link>
+      <pubDate>Thu, 23 Sep 2021 05:09:46 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-23-ai-model-as-service/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MLOps 정리</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-22-mlops-summary/</link>
+      <pubDate>Wed, 22 Sep 2021 17:27:56 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-22-mlops-summary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NLP 헷갈렸던 점들</title>
+      <link>http://localhost:1313/posts/ml/2021-09-20-nlp-confusing-points/</link>
+      <pubDate>Mon, 20 Sep 2021 05:49:40 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-20-nlp-confusing-points/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Recent trends of NLP</title>
+      <link>http://localhost:1313/posts/ml/2021-09-19-recent-trends-of-nlp/</link>
+      <pubDate>Sun, 19 Sep 2021 13:41:16 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-19-recent-trends-of-nlp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Advanced Self-supervised Pre-training model</title>
+      <link>http://localhost:1313/posts/ml/2021-09-18-advanced-self-supervised-pre-training-model/</link>
+      <pubDate>Sat, 18 Sep 2021 11:08:52 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-18-advanced-self-supervised-pre-training-model/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Self-supervised Pre-training models</title>
+      <link>http://localhost:1313/posts/ml/2021-09-18-self-supervised-pre-training-models/</link>
+      <pubDate>Sat, 18 Sep 2021 10:51:48 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-18-self-supervised-pre-training-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 7주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-09-17-naver-boost-camp-ai-tech-2nd-report-fifth-week/</link>
+      <pubDate>Fri, 17 Sep 2021 11:34:08 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-09-17-naver-boost-camp-ai-tech-2nd-report-fifth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformer 도입</title>
+      <link>http://localhost:1313/posts/ml/2021-09-13-transformer-introduction/</link>
+      <pubDate>Mon, 13 Sep 2021 09:25:25 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-13-transformer-introduction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 6주차 학습정리</title>
+      <link>http://localhost:1313/posts/ml/2021-09-10-boostcamp-ai-tech-2nd-week6-study-summary/</link>
+      <pubDate>Fri, 10 Sep 2021 10:21:43 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-10-boostcamp-ai-tech-2nd-week6-study-summary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>BLEU</title>
+      <link>http://localhost:1313/posts/ml/2021-09-10-bleu/</link>
+      <pubDate>Fri, 10 Sep 2021 05:52:17 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-10-bleu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Beam search</title>
+      <link>http://localhost:1313/posts/ml/2021-09-08-beam-search/</link>
+      <pubDate>Wed, 08 Sep 2021 10:39:16 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-08-beam-search/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>http://localhost:1313/posts/ml/2021-09-08-attention/</link>
+      <pubDate>Wed, 08 Sep 2021 05:27:10 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-08-attention/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LSTM, GRU</title>
+      <link>http://localhost:1313/posts/ml/2021-09-07-lstm-gru/</link>
+      <pubDate>Tue, 07 Sep 2021 06:49:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-07-lstm-gru/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RNNs</title>
+      <link>http://localhost:1313/posts/ml/2021-09-07-rnns/</link>
+      <pubDate>Tue, 07 Sep 2021 04:06:29 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-07-rnns/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pathlib</title>
+      <link>http://localhost:1313/posts/ml/2021-09-07-pathlib/</link>
+      <pubDate>Tue, 07 Sep 2021 01:10:10 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-07-pathlib/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NLP 전처리</title>
+      <link>http://localhost:1313/posts/ml/2021-09-06-nlp-preprocessing/</link>
+      <pubDate>Mon, 06 Sep 2021 23:56:25 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-06-nlp-preprocessing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Word Embedding</title>
+      <link>http://localhost:1313/posts/ml/2021-09-06-word-embedding/</link>
+      <pubDate>Mon, 06 Sep 2021 11:04:54 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-06-word-embedding/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>첫번째 Ai Competition 마무리</title>
+      <link>http://localhost:1313/posts/ml/2021-09-06-first-ai-competition-review/</link>
+      <pubDate>Mon, 06 Sep 2021 11:01:54 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-06-first-ai-competition-review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformation(Albumentation)</title>
+      <link>http://localhost:1313/posts/ml/2021-09-06-transformationalbumentation/</link>
+      <pubDate>Mon, 06 Sep 2021 10:17:15 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-06-transformationalbumentation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bag-of-Words</title>
+      <link>http://localhost:1313/posts/ml/2021-09-06-bag-of-words/</link>
+      <pubDate>Mon, 06 Sep 2021 07:04:30 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-06-bag-of-words/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NLP 개요</title>
+      <link>http://localhost:1313/posts/ml/2021-09-06-nlp-overview/</link>
+      <pubDate>Mon, 06 Sep 2021 04:45:14 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-06-nlp-overview/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>강화학습 공부 자료</title>
+      <link>http://localhost:1313/posts/ml/2021-09-03-reinforcement-learning-study-materials/</link>
+      <pubDate>Fri, 03 Sep 2021 14:10:16 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-03-reinforcement-learning-study-materials/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 단어 변환</title>
+      <link>http://localhost:1313/posts/algorithms/2021-09-02-programmers-word-conversion/</link>
+      <pubDate>Thu, 02 Sep 2021 20:28:41 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-09-02-programmers-word-conversion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[백준] Messi Gimossi</title>
+      <link>http://localhost:1313/posts/algorithms/2021-09-02-baekjoon-messi-gimossi/</link>
+      <pubDate>Thu, 02 Sep 2021 20:17:18 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-09-02-baekjoon-messi-gimossi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>마지막 점수 올리기</title>
+      <link>http://localhost:1313/posts/ml/2021-09-02-final-score-improvement/</link>
+      <pubDate>Thu, 02 Sep 2021 01:27:24 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-02-final-score-improvement/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>헷갈리는 numpy</title>
+      <link>http://localhost:1313/posts/ml/2021-09-01-confusing-numpy/</link>
+      <pubDate>Wed, 01 Sep 2021 20:33:06 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-01-confusing-numpy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ensemble</title>
+      <link>http://localhost:1313/posts/ml/2021-08-31-ensemble/</link>
+      <pubDate>Tue, 31 Aug 2021 18:22:32 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-31-ensemble/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Training proecss</title>
+      <link>http://localhost:1313/posts/ml/2021-08-30-training-proecss/</link>
+      <pubDate>Mon, 30 Aug 2021 18:02:28 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-30-training-proecss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>추가적인 학습 기법들</title>
+      <link>http://localhost:1313/posts/ml/2021-08-30-additional-training-techniques/</link>
+      <pubDate>Mon, 30 Aug 2021 15:13:38 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-30-additional-training-techniques/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>헷갈렸던 training 방법</title>
+      <link>http://localhost:1313/posts/ml/2021-08-29-confusing-training-methods/</link>
+      <pubDate>Sun, 29 Aug 2021 01:31:27 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-29-confusing-training-methods/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CutMix vertical</title>
+      <link>http://localhost:1313/posts/ml/2021-08-28-cutmix-vertical/</link>
+      <pubDate>Sat, 28 Aug 2021 14:48:06 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-28-cutmix-vertical/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CutMix</title>
+      <link>http://localhost:1313/posts/ml/2021-08-27-cutmix/</link>
+      <pubDate>Fri, 27 Aug 2021 23:02:28 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-27-cutmix/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 4주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-08-27-naver-boost-camp-ai-tech-2nd-report-fourth-week/</link>
+      <pubDate>Fri, 27 Aug 2021 08:55:22 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-27-naver-boost-camp-ai-tech-2nd-report-fourth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TIL 코딩 정리 2021.08.25~27</title>
+      <link>http://localhost:1313/posts/records/2021-08-26-ti-coding-2021.08.25-27/</link>
+      <pubDate>Thu, 26 Aug 2021 23:45:48 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-26-ti-coding-2021.08.25-27/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TIL train 계획 정리 2021.08.24</title>
+      <link>http://localhost:1313/posts/records/2021-08-24-til-train-plan-2021.08.24/</link>
+      <pubDate>Tue, 24 Aug 2021 15:53:05 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-24-til-train-plan-2021.08.24/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Some tips</title>
+      <link>http://localhost:1313/posts/ml/2021-08-24-data-generation/</link>
+      <pubDate>Tue, 24 Aug 2021 02:35:24 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-24-data-generation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Preprocessing</title>
+      <link>http://localhost:1313/posts/ml/2021-08-24-preprocessing/</link>
+      <pubDate>Tue, 24 Aug 2021 02:04:59 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-24-preprocessing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TIL train 계획 정리 2021.08.23</title>
+      <link>http://localhost:1313/posts/records/2021-08-23-til-train-plan-2021.08.23/</link>
+      <pubDate>Mon, 23 Aug 2021 16:57:30 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-23-til-train-plan-2021.08.23/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ai competition</title>
+      <link>http://localhost:1313/posts/ml/2021-08-23-ai-competition/</link>
+      <pubDate>Mon, 23 Aug 2021 04:42:14 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-23-ai-competition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>facet</title>
+      <link>http://localhost:1313/posts/old_postings/2021-08-22-facet/</link>
+      <pubDate>Sun, 22 Aug 2021 21:04:31 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-08-22-facet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>color</title>
+      <link>http://localhost:1313/posts/old_postings/2021-08-22-color/</link>
+      <pubDate>Sun, 22 Aug 2021 20:58:50 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-08-22-color/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Trouble shooting</title>
+      <link>http://localhost:1313/posts/ml/2021-08-22-trouble-shooting/</link>
+      <pubDate>Sun, 22 Aug 2021 20:10:07 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-22-trouble-shooting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hyperparameter tuning</title>
+      <link>http://localhost:1313/posts/ml/2021-08-22-hyperparameter-tuning/</link>
+      <pubDate>Sun, 22 Aug 2021 19:43:58 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-22-hyperparameter-tuning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>tqdm with epoch statics</title>
+      <link>http://localhost:1313/posts/ml/2021-08-22-tqdm-with-epoch-statics/</link>
+      <pubDate>Sun, 22 Aug 2021 13:36:09 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-22-tqdm-with-epoch-statics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 3주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-08-20-naver-boost-camp-ai-tech-2nd-report-thrid-week/</link>
+      <pubDate>Fri, 20 Aug 2021 08:16:21 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-20-naver-boost-camp-ai-tech-2nd-report-thrid-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Multi gpu</title>
+      <link>http://localhost:1313/posts/ml/2021-08-20-multi-gpu/</link>
+      <pubDate>Fri, 20 Aug 2021 08:14:42 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-20-multi-gpu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pytorch transfer</title>
+      <link>http://localhost:1313/posts/ml/2021-08-20-pytorch-transfer/</link>
+      <pubDate>Fri, 20 Aug 2021 04:11:55 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-20-pytorch-transfer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pandas</title>
+      <link>http://localhost:1313/posts/ml/2021-08-19-pandas/</link>
+      <pubDate>Thu, 19 Aug 2021 02:17:47 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-19-pandas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pytorch dataset, dataloader</title>
+      <link>http://localhost:1313/posts/ml/2021-08-19-pytorch-dataset-dataloader/</link>
+      <pubDate>Thu, 19 Aug 2021 01:53:16 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-19-pytorch-dataset-dataloader/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pytorch apply</title>
+      <link>http://localhost:1313/posts/ml/2021-08-19-pytorch-apply/</link>
+      <pubDate>Thu, 19 Aug 2021 00:07:50 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-19-pytorch-apply/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pytorch hook</title>
+      <link>http://localhost:1313/posts/ml/2021-08-18-pytorch-hook/</link>
+      <pubDate>Wed, 18 Aug 2021 23:40:41 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-18-pytorch-hook/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pytorch template, tip</title>
+      <link>http://localhost:1313/posts/ml/2021-08-17-pytorch-template-tip/</link>
+      <pubDate>Tue, 17 Aug 2021 13:22:09 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-17-pytorch-template-tip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pytorch 기본 문법</title>
+      <link>http://localhost:1313/posts/ml/2021-08-17-pytorch-basic-syntax/</link>
+      <pubDate>Tue, 17 Aug 2021 13:07:14 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-17-pytorch-basic-syntax/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bar plot</title>
+      <link>http://localhost:1313/posts/old_postings/2021-08-16-bar-plot/</link>
+      <pubDate>Mon, 16 Aug 2021 12:14:26 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-08-16-bar-plot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 네트워크(python)</title>
+      <link>http://localhost:1313/posts/algorithms/2021-08-15-programmers-network-python/</link>
+      <pubDate>Sun, 15 Aug 2021 19:49:33 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-08-15-programmers-network-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>[프로그래머스] 타겟 넘버(python)</title>
+      <link>http://localhost:1313/posts/algorithms/2021-08-15-programmers-target-number-python/</link>
+      <pubDate>Sun, 15 Aug 2021 15:52:19 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/algorithms/2021-08-15-programmers-target-number-python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Generative model - 2</title>
+      <link>http://localhost:1313/posts/ml/2021-08-14-generative-model---2/</link>
+      <pubDate>Sat, 14 Aug 2021 12:01:37 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-14-generative-model---2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Generative Models</title>
+      <link>http://localhost:1313/posts/ml/2021-08-13-generative-models/</link>
+      <pubDate>Fri, 13 Aug 2021 15:08:09 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-13-generative-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformer 실습</title>
+      <link>http://localhost:1313/posts/ml/2021-08-13-transformer-practice/</link>
+      <pubDate>Fri, 13 Aug 2021 13:09:33 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-13-transformer-practice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformer</title>
+      <link>http://localhost:1313/posts/ml/2021-08-13-transformer/</link>
+      <pubDate>Fri, 13 Aug 2021 11:44:01 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-13-transformer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 2주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-08-13-naver-boost-camp-ai-tech-2nd-report-second-week/</link>
+      <pubDate>Fri, 13 Aug 2021 11:33:19 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-13-naver-boost-camp-ai-tech-2nd-report-second-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>parameter 수</title>
+      <link>http://localhost:1313/posts/ml/2021-08-13-parameter-count/</link>
+      <pubDate>Fri, 13 Aug 2021 09:58:27 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-13-parameter-count/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Convolution 실습</title>
+      <link>http://localhost:1313/posts/ml/2021-08-12-convolution-practice/</link>
+      <pubDate>Thu, 12 Aug 2021 05:33:51 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-12-convolution-practice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>참고 블로그</title>
+      <link>http://localhost:1313/posts/records/2021-08-11-reference-blog/</link>
+      <pubDate>Wed, 11 Aug 2021 08:57:12 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-11-reference-blog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CNN key concept</title>
+      <link>http://localhost:1313/posts/ml/2021-08-11-cnn-key-concept/</link>
+      <pubDate>Wed, 11 Aug 2021 06:50:47 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-11-cnn-key-concept/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>weight init</title>
+      <link>http://localhost:1313/posts/ml/2021-08-11-weight-init/</link>
+      <pubDate>Wed, 11 Aug 2021 06:35:45 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-11-weight-init/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Convolution</title>
+      <link>http://localhost:1313/posts/ml/2021-08-11-convolution/</link>
+      <pubDate>Wed, 11 Aug 2021 02:38:17 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-11-convolution/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Optimizer 실습</title>
+      <link>http://localhost:1313/posts/ml/2021-08-10-optimizer-practice/</link>
+      <pubDate>Tue, 10 Aug 2021 07:58:31 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-10-optimizer-practice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>http://localhost:1313/posts/ml/2021-08-10-optimization/</link>
+      <pubDate>Tue, 10 Aug 2021 01:35:15 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-10-optimization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>데이터 시각화</title>
+      <link>http://localhost:1313/posts/old_postings/2021-08-09-data-visualization/</link>
+      <pubDate>Mon, 09 Aug 2021 13:06:49 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-08-09-data-visualization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RNN</title>
+      <link>http://localhost:1313/posts/ml/2021-08-06-rnn/</link>
+      <pubDate>Fri, 06 Aug 2021 07:23:27 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-06-rnn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 1주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-08-06-naver-boost-camp-ai-tech-2nd-report-first-week/</link>
+      <pubDate>Fri, 06 Aug 2021 05:37:46 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-06-naver-boost-camp-ai-tech-2nd-report-first-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gradient descent 증명</title>
+      <link>http://localhost:1313/posts/ml/2021-08-04-proof-of-gradient-descent/</link>
+      <pubDate>Wed, 04 Aug 2021 06:19:39 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-04-proof-of-gradient-descent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gradient descent 기본</title>
+      <link>http://localhost:1313/posts/ml/2021-08-03-gradient-descent-basic/</link>
+      <pubDate>Tue, 03 Aug 2021 18:23:37 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-03-gradient-descent-basic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matrix, Vector</title>
+      <link>http://localhost:1313/posts/ml/2021-08-03-matrix-vector/</link>
+      <pubDate>Tue, 03 Aug 2021 17:51:44 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-03-matrix-vector/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python nested function</title>
+      <link>http://localhost:1313/posts/ml/2021-08-03-python-nested-function/</link>
+      <pubDate>Tue, 03 Aug 2021 16:47:56 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-03-python-nested-function/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python decorator, property</title>
+      <link>http://localhost:1313/posts/ml/2021-08-03-python-decorator-property/</link>
+      <pubDate>Tue, 03 Aug 2021 16:41:17 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-03-python-decorator-property/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>http://localhost:1313/posts/ml/2021-08-06-cnn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-06-cnn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DL </title>
+      <link>http://localhost:1313/posts/ml/2021-08-09-dl-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-09-dl-/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neural network</title>
+      <link>http://localhost:1313/posts/ml/2021-08-04-neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-04-neural-network/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NN &amp; Multi layer perceptron</title>
+      <link>http://localhost:1313/posts/ml/2021-08-09-nn--multi-layer-perceptron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-09-nn--multi-layer-perceptron/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>numpy.matmul, numpy.dot</title>
+      <link>http://localhost:1313/posts/ml/2021-08-10-numpy.matmul-numpy.dot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-10-numpy.matmul-numpy.dot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>pytorch</title>
+      <link>http://localhost:1313/posts/ml/2021-08-09-pytorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-09-pytorch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>베이즈 통계학</title>
+      <link>http://localhost:1313/posts/ml/2021-08-05-bayesian-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-05-bayesian-statistics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>통계론</title>
+      <link>http://localhost:1313/posts/ml/2021-08-05-statistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-05-statistics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>확률론</title>
+      <link>http://localhost:1313/posts/ml/2021-08-05-probability-theroy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-05-probability-theroy/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

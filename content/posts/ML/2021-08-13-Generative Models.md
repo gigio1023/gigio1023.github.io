@@ -1,8 +1,7 @@
 ---
 title: "Generative Models"
 date: 2021-08-13T15:08:09.373Z
-tags: ["Computer-Vision"]
-tags: ["DL","boostcamp","generative-models"]
+tags: ["DL","boostcamp","generative-models", "Computer-Vision"]
 ---
 https://deepgenerativemodels.github.io/
 스탠포드 대학의 수업이라고하는데 참고해서 수업을 진행하셨다. 

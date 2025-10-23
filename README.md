@@ -1,5 +1,16 @@
 # Blog Settings
-Summary of https://blowfish.page/docs/.
+- https://blowfish.page/docs/.
+
+## Hugo setup
+```sh
+brew install hugo go
+hugo mod get
+hugo mod tidy
+
+# Optionally
+hugo server
+```
+
 ## Generaet a post
 `hugo new --kind post test.md`
 ## Color schema

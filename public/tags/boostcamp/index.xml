@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boostcamp on Blog of gigio1023</title>
+    <link>http://localhost:1313/tags/boostcamp/</link>
+    <description>Recent content in Boostcamp on Blog of gigio1023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>relilau00@gmail.com (Sungho Park (gigio1023))</managingEditor>
+    <webMaster>relilau00@gmail.com (Sungho Park (gigio1023))</webMaster>
+    <copyright>© 2025 Sungho Park (gigio1023)</copyright>
+    <lastBuildDate>Wed, 13 Oct 2021 04:09:10 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/boostcamp/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Extraction-Based MRC</title>
+      <link>http://localhost:1313/posts/ml/2021-10-13-extraction-based-mrc/</link>
+      <pubDate>Wed, 13 Oct 2021 04:09:10 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-13-extraction-based-mrc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 10주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-10-08-naver-boost-camp-ai-tech-2nd-report-tenth-week/</link>
+      <pubDate>Fri, 08 Oct 2021 08:42:13 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-10-08-naver-boost-camp-ai-tech-2nd-report-tenth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 9주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-10-01-naver-boost-camp-ai-tech-2nd-report-ninth-week/</link>
+      <pubDate>Fri, 01 Oct 2021 08:50:31 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-10-01-naver-boost-camp-ai-tech-2nd-report-ninth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Language model Benchmark 간단 정리</title>
+      <link>http://localhost:1313/posts/ml/2021-09-26-language-model-benchmark-summary/</link>
+      <pubDate>Sun, 26 Sep 2021 22:12:41 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-26-language-model-benchmark-summary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI &amp; Ethics</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-26-ai-and-ethics/</link>
+      <pubDate>Sun, 26 Sep 2021 10:10:36 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-26-ai-and-ethics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Full stack ML Engineer</title>
+      <link>http://localhost:1313/posts/ml/2021-09-26-full-stack-ml-engineer/</link>
+      <pubDate>Sun, 26 Sep 2021 09:41:46 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-26-full-stack-ml-engineer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI 저작권법</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-26-ai-copyright-law/</link>
+      <pubDate>Sun, 26 Sep 2021 08:46:19 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-26-ai-copyright-law/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 8주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-09-24-naver-boost-camp-ai-tech-2nd-report-eighth-week/</link>
+      <pubDate>Fri, 24 Sep 2021 09:24:46 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-09-24-naver-boost-camp-ai-tech-2nd-report-eighth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kaggle tip</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-23-kaggle-tip/</link>
+      <pubDate>Thu, 23 Sep 2021 06:35:03 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-23-kaggle-tip/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI model as Service</title>
+      <link>http://localhost:1313/posts/old_postings/2021-09-23-ai-model-as-service/</link>
+      <pubDate>Thu, 23 Sep 2021 05:09:46 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/old_postings/2021-09-23-ai-model-as-service/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 7주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-09-17-naver-boost-camp-ai-tech-2nd-report-fifth-week/</link>
+      <pubDate>Fri, 17 Sep 2021 11:34:08 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-09-17-naver-boost-camp-ai-tech-2nd-report-fifth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 6주차 학습정리</title>
+      <link>http://localhost:1313/posts/ml/2021-09-10-boostcamp-ai-tech-2nd-week6-study-summary/</link>
+      <pubDate>Fri, 10 Sep 2021 10:21:43 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-10-boostcamp-ai-tech-2nd-week6-study-summary/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>첫번째 Ai Competition 마무리</title>
+      <link>http://localhost:1313/posts/ml/2021-09-06-first-ai-competition-review/</link>
+      <pubDate>Mon, 06 Sep 2021 11:01:54 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-09-06-first-ai-competition-review/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 4주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-08-27-naver-boost-camp-ai-tech-2nd-report-fourth-week/</link>
+      <pubDate>Fri, 27 Aug 2021 08:55:22 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-27-naver-boost-camp-ai-tech-2nd-report-fourth-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>부스트캠프 AI Tech 2기 3주차 학습정리</title>
+      <link>http://localhost:1313/posts/records/2021-08-20-naver-boost-camp-ai-tech-2nd-report-thrid-week/</link>
+      <pubDate>Fri, 20 Aug 2021 08:16:21 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/records/2021-08-20-naver-boost-camp-ai-tech-2nd-report-thrid-week/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Generative Models</title>
+      <link>http://localhost:1313/posts/ml/2021-08-13-generative-models/</link>
+      <pubDate>Fri, 13 Aug 2021 15:08:09 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-13-generative-models/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

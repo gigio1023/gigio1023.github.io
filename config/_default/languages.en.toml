@@ -23,7 +23,7 @@ title = "Blog of gigio1023"
   bio = "To build a genuinely useful product "
   links = [
     { email = "mailto:relilau00@gmail.com" },
-    { link = "https://gigio1023.github.io/" },
+    { link = "https://sungho-park-gigio.pages.dev" },
     { linkedin = "https://www.linkedin.com/in/gigio1023/" },
   ]
 

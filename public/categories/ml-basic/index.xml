@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML-Basic on Blog of gigio1023</title>
+    <link>http://localhost:1313/categories/ml-basic/</link>
+    <description>Recent content in ML-Basic on Blog of gigio1023</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>relilau00@gmail.com (Sungho Park (gigio1023))</managingEditor>
+    <webMaster>relilau00@gmail.com (Sungho Park (gigio1023))</webMaster>
+    <copyright>© 2025 Sungho Park (gigio1023)</copyright>
+    <lastBuildDate>Mon, 18 Oct 2021 03:44:02 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ml-basic/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reducing Training Bias</title>
+      <link>http://localhost:1313/posts/ml/2021-10-18-reducing-training-bias/</link>
+      <pubDate>Mon, 18 Oct 2021 03:44:02 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-10-18-reducing-training-bias/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ensemble</title>
+      <link>http://localhost:1313/posts/ml/2021-08-31-ensemble/</link>
+      <pubDate>Tue, 31 Aug 2021 18:22:32 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-31-ensemble/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Training proecss</title>
+      <link>http://localhost:1313/posts/ml/2021-08-30-training-proecss/</link>
+      <pubDate>Mon, 30 Aug 2021 18:02:28 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-30-training-proecss/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>추가적인 학습 기법들</title>
+      <link>http://localhost:1313/posts/ml/2021-08-30-additional-training-techniques/</link>
+      <pubDate>Mon, 30 Aug 2021 15:13:38 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-30-additional-training-techniques/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>헷갈렸던 training 방법</title>
+      <link>http://localhost:1313/posts/ml/2021-08-29-confusing-training-methods/</link>
+      <pubDate>Sun, 29 Aug 2021 01:31:27 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-29-confusing-training-methods/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hyperparameter tuning</title>
+      <link>http://localhost:1313/posts/ml/2021-08-22-hyperparameter-tuning/</link>
+      <pubDate>Sun, 22 Aug 2021 19:43:58 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-22-hyperparameter-tuning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>parameter 수</title>
+      <link>http://localhost:1313/posts/ml/2021-08-13-parameter-count/</link>
+      <pubDate>Fri, 13 Aug 2021 09:58:27 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-13-parameter-count/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Optimizer 실습</title>
+      <link>http://localhost:1313/posts/ml/2021-08-10-optimizer-practice/</link>
+      <pubDate>Tue, 10 Aug 2021 07:58:31 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-10-optimizer-practice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>http://localhost:1313/posts/ml/2021-08-10-optimization/</link>
+      <pubDate>Tue, 10 Aug 2021 01:35:15 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-10-optimization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RNN</title>
+      <link>http://localhost:1313/posts/ml/2021-08-06-rnn/</link>
+      <pubDate>Fri, 06 Aug 2021 07:23:27 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-06-rnn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gradient descent 증명</title>
+      <link>http://localhost:1313/posts/ml/2021-08-04-proof-of-gradient-descent/</link>
+      <pubDate>Wed, 04 Aug 2021 06:19:39 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-04-proof-of-gradient-descent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gradient descent 기본</title>
+      <link>http://localhost:1313/posts/ml/2021-08-03-gradient-descent-basic/</link>
+      <pubDate>Tue, 03 Aug 2021 18:23:37 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-03-gradient-descent-basic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matrix, Vector</title>
+      <link>http://localhost:1313/posts/ml/2021-08-03-matrix-vector/</link>
+      <pubDate>Tue, 03 Aug 2021 17:51:44 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-03-matrix-vector/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DL </title>
+      <link>http://localhost:1313/posts/ml/2021-08-09-dl-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-09-dl-/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neural network</title>
+      <link>http://localhost:1313/posts/ml/2021-08-04-neural-network/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-04-neural-network/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NN &amp; Multi layer perceptron</title>
+      <link>http://localhost:1313/posts/ml/2021-08-09-nn--multi-layer-perceptron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>relilau00@gmail.com (Sungho Park (gigio1023))</author>
+      <guid>http://localhost:1313/posts/ml/2021-08-09-nn--multi-layer-perceptron/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

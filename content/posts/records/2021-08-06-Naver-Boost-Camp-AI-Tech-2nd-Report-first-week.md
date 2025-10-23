@@ -2,7 +2,6 @@
 title: "부스트캠프 AI Tech 2기 1주차 학습정리"
 date: 2021-08-06T05:37:46.336Z
 tags: ["Naver-Boostcamp"]
-tags: ["부스트캠프"]
 ---
 # 1주차 학습정리
 ## 강의 복습 내용
