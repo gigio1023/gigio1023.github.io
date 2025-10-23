@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sungho-park-gigio.pages.dev/sitemap.xml
